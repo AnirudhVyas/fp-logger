@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/anirudh.vyas/scala/fp-logger/project/target/.sbt-compilation-infos/fp-logger-compile/.sbt-idea-lock ...[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/anirudh.vyas/scala/fp-logger/src/main/scala/free/me/log/Logger.scala:11:16: not found: value SLF4JLogger[0m
-[0m[[0m[31merror[0m] [0m[0m  val logger = SLF4JLogger[0m
-[0m[[0m[31merror[0m] [0m[0m               ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
-[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/anirudh.vyas/scala/fp-logger/project/target/.sbt-compilation-infos/fp-logger-compile/.sbt-idea-lock.[0m
